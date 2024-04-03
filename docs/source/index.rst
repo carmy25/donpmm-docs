@@ -1,22 +1,21 @@
-Welcome to Lumache's documentation!
-===================================
+Ласкаво просимо до документації DON-PMM!
+========================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**DON-PMM** (/Донесення ПММ/) це програма що дозволяє генерувати Excel файли донесень.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+
+.. image:: screenshots/main-screen.png
+
+Щоб отримати додаткову інформацію, переглянте розділ :doc:`Використання <usage>`, включаючи також :doc:`Встановлення <installation>`.
 
 .. note::
 
-   This project is under active development.
+   Проект в стадії активної розробки.
 
-Contents
---------
+Зміст
+-----
 
 .. toctree::
 
-   usage
-   api
+   Встановлення <installation>
+   Використання <usage>
