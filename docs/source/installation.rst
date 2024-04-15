@@ -5,7 +5,7 @@ Windows
 -------
 Для встановлення DON-PMM виконайте наступні кроки:
   * встановіть `Microsoft C++ Redistributable <https://aka.ms/vs/17/release/vc_redist.x64.exe>`_
-  * завантажте архів з `DON-PMM <https://drive.google.com/uc?export=download&id=1lSfIjgV2nu6H8L3L29cjz1X2j51RtMvN>`_
+  * завантажте архів з `DON-PMM-1.0.2 <https://drive.google.com/uc?export=download&id=1Yy19Vbr6NdKBlBnrGCRlL1Q0G3xNKdmU>`_
   * розархівуйте архів.
   * запустіть ``donpmm.exe``, як показано на картинці:
 
